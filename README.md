@@ -1,12 +1,12 @@
 # 🚌 Your BUS — Online Bus Ticket Booking System
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-Your_BUS-2563EB?style=for-the-badge&logo=bus&logoColor=white](https://img.shields.io/badge/Project-Your_BUS-2563EB?style=for-the-badge\&logo=bus\&logoColor=white)" alt="Your BUS"/>
-&#x20; \<img src="[https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)" alt="PHP"/>
-&#x20; \<img src="[https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML and CSS"/>
-&#x20; \<img src="[https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" alt="MySQL"/>
-&#x20; \<img src="[https://img.shields.io/badge/Local_Server-XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white](https://img.shields.io/badge/Local_Server-XAMPP-FB7A24?style=for-the-badge\&logo=apache\&logoColor=white)" alt="XAMPP"/>
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Your_BUS-2563EB?style=for-the-badge&logo=bus&logoColor=white" alt="Your BUS"/>
+  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Local_Server-XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP"/>
+</p>
 
 \<p align="center">
 &#x20; \<strong>Travel Made Simple. Book Tickets with Confidence.\</strong>
