@@ -8,18 +8,18 @@
   <img src="https://img.shields.io/badge/Local_Server-XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP"/>
 </p>
 
-\<p align="center">
-&#x20; \<strong>Travel Made Simple. Book Tickets with Confidence.\</strong>
-&#x20; \<br/>\<br/>
-&#x20; A web-based bus ticket reservation system that simplifies online bookings, customer management, ticket cancellation, and administrative operations.
-\</p>
+<p align="center">
+  <strong>Travel Made Simple. Book Tickets with Confidence.</strong>
+  <br/><br/>
+  A web-based bus ticket reservation system that simplifies online bookings, customer management, ticket cancellation, and administrative operations.
+</p>
 
-\<p align="center">
-&#x20; \<strong>🎟️ Book Tickets\</strong> &nbsp; • &nbsp;
-&#x20; \<strong>🔎 Track Bookings\</strong> &nbsp; • &nbsp;
-&#x20; \<strong>❌ Cancel Reservations\</strong> &nbsp; • &nbsp;
-&#x20; \<strong>📊 Manage Operations\</strong>
-\</p>
+<p align="center">
+  <strong>🎟️ Book Tickets</strong> &nbsp; • &nbsp;
+  <strong>🔎 Track Bookings</strong> &nbsp; • &nbsp;
+  <strong>❌ Cancel Reservations</strong> &nbsp; • &nbsp;
+  <strong>📊 Manage Operations</strong>
+</p>
 
 ---
 
